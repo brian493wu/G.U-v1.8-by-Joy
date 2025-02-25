@@ -77,5 +77,5 @@ function live() {
 live();
 
 // Set the background to the theatre stage image.
-localStorage.setItem('bgUrl', 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGhlYXRyZSUyMHN0YWdlfGVufDB8fDB8fHww');
+localStorage.setItem('bgUrl', 'https://64.media.tumblr.com/27e352a4ac01f38026764d4977a4165a/4e8e148748f4035c-65/s540x810/cdfb6f4b01bb43d8c08f702c19945ef3565424c5.gifv');
 live(); // apply the new background immediately.
